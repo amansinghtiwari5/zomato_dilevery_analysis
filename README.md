@@ -85,6 +85,6 @@ The project demonstrates an **end-to-end data analytics workflow**, from raw dat
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard](images/dashboard.png)
+[Dashboard](images/dashboard.png)
 
 
